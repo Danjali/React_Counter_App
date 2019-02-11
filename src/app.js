@@ -1,4 +1,3 @@
-import React from 'react';
 import ReactDom from 'react-dom';
 import Counter from './counter';
 import './css/style.css';

@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDom from 'react-dom';
 
 export default class Counter extends React.Component {
   constructor() {
